@@ -25,7 +25,7 @@ Change this to match your own folders and files.
 
 How to Run
 Download or clone this repository:
-   git clone https://github.com/YOUR-USERNAME/shopease-website.git
+   git clone https://github.com/IshanSingla-coder-creater/amazon-clone-web
 Open the folder.
 Double-click index.html to open it in your browser.
 
