@@ -2,10 +2,6 @@ ShopEase – E-commerce Website UI
 
 A responsive online shopping website front end, built using only HTML and CSS. This is a practice project to learn page layout, styling and responsive design.
 
-ShopEase screenshot
-
-Live demo: your-live-link-here
-
 Features
 Navigation bar with logo and search box
 Product grid showing items with image, name and price
@@ -45,8 +41,8 @@ Add JavaScript for a working cart and search
 Add more pages (product details, login)
 Author
 
- Ishan Singla– [GitHub profile link]
+ Ishan Singla– https://github.com/IshanSingla-coder-creater
 
 Note
 
-This is a learning project with an original design. It is not affiliated with any real company or store. Images are from free-license sources.
+This is a learning project with an original design. It is not affiliated with any real company or store. 
