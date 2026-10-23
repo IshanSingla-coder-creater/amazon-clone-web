@@ -1,4 +1,4 @@
-ShopEase – E-commerce Website UI
+ShopEase – E-commerce Website UI 
 
 A responsive online shopping website front end, built using only HTML and CSS. This is a practice project to learn page layout, styling and responsive design.
 
